@@ -1,2 +1,5 @@
 # hello-world
-My first repository for testing
+
+Hi, gays!
+
+I'm learning to use GitHub now.
